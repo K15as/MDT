@@ -1,0 +1,23 @@
+{
+  "student": "Кислов Илья Алексеевич",
+  "group": "ИНДОР-221",
+  "variant": 7,
+  "config": {
+    "speed": 0.58,
+    "sensor_range": 1.8,
+    "avoid_threshold": 0.6,
+    "obstacles_count": 4,
+    "seed": 107
+  },
+  "metrics": {
+    "final_state": "GOAL",
+    "time_s": 43.05,
+    "path_length_m": 12.066,
+    "straight_line_m": 12.021,
+    "tortuosity": 1.004,
+    "fsm_transitions": 22,
+    "avoid_share": 0.615,
+    "min_clearance_m": 0.271,
+    "mean_speed_ms": 0.28
+  }
+}
